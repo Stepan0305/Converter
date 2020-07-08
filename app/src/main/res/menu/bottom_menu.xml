@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/rates"
+        android:icon="@drawable/ic_baseline_insert_chart_outlined_24"
+        android:title="Курсы валют" />
+    <item
+        android:id="@+id/convert"
+        android:icon="@drawable/ic_baseline_import_export_24"
+        android:title="Конвертер" />
+    <item
+        android:id="@+id/history"
+        android:icon="@drawable/ic_baseline_history_24"
+        android:title="История" />
+</menu>
